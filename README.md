@@ -4,4 +4,5 @@ To learn how to build a ETL pipeline by building a daily pipeline that takes dai
 Take a look at my medium posts below for more info:
 
 https://medium.com/@lzhou519/airflow-etl-pipeline-part-1-setup-c1a19e1d2c74
+
 https://medium.com/@lzhou519/airflow-etl-pipeline-part-2-17a125e88dd2
